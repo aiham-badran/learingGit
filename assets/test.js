@@ -1,0 +1,1 @@
+console.log("the test js file in assets folder !")
